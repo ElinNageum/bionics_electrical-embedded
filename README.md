@@ -1,4 +1,4 @@
-# bionics_electrical-embedded
+# bionics_electrical/embedded
 UBC Bionics is an engineering student design team that competes in biomedical competitions, such as Cybathlon hosted by ETH Zurich. GRASP is our pilot project, a smart prosthetic arm integrating electromyography (EMG), computer vision, and 3D printing techniques, designed for a trans-radial forearm amputee.
 
 <div align="center">
